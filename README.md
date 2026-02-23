@@ -8,3 +8,4 @@
 + 기술스텍 : 
 + 주요기능 : 
 + 연락처
+![이미지 올리는 연습](http://git-scm.com/images/logo(2x.png)
